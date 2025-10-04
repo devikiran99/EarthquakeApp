@@ -1,16 +1,1 @@
-# earthquake
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+I developed a Flutter application that displays real-time earthquake data by integrating the USGS Earthquake API, providing users with up-to-date global seismic activity information. The app allows users to easily filter earthquakes based on date of occurrence, magnitude, and location, enabling quick and accurate insights. To enhance usability, the application presents earthquake details such as magnitude, depth, time, and affected region in a clean and intuitive interface. Leveraging Flutter’s cross-platform capabilities, the app ensures a smooth and consistent experience across both Android and iOS. The solution highlights my ability to work with RESTful APIs, implement dynamic data filtering, and design responsive UIs, making it a practical and informative tool for tracking natural disasters.
